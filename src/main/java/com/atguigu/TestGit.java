@@ -7,6 +7,7 @@ package com.atguigu;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("hello001");
+        System.out.println("hello002");
     }
 
 }
